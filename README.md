@@ -1,73 +1,92 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🌟 SurgiPrep — Pastel Surgery Preparation Assistant
 
-**URL**: https://lovable.dev/projects/50d253b7-af05-44cf-8193-26190eeb6579
+SurgiPrep is a clean, pastel-themed surgery preparation assistant built with **React + Vite + TypeScript** on the frontend and **Node.js + Express + TypeScript** on the backend.
+It is a beginner-friendly full-stack prototype with simple UI, light interactivity, and a mock API.
 
-## How can I edit this code?
+## 🚀 Tech Stack
 
-There are several ways of editing your application.
+### **Frontend**
 
-**Use Lovable**
+* React + Vite + TypeScript
+* Tailwind CSS (custom pastel theme)
+* React Router
+* Framer Motion
+* Mobile-first responsive UI
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/50d253b7-af05-44cf-8193-26190eeb6579) and start prompting.
+### **Backend**
 
-Changes made via Lovable will be committed automatically to this repo.
+* Node.js + Express + TypeScript
+* In-memory JSON data (no database)
+* Simple mock API endpoints
+* CORS enabled
 
-**Use your preferred IDE**
+## 🎨 Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* Pastel, medical-themed UI
+* Patient Dashboard & Family Dashboard
+* Video Library (fetching from backend)
+* Pre-op Checklist with toggle
+* Pain Slider
+* Photo Upload (client preview)
+* Notifications UI (mark as read)
+* Progress Ring component
+* Responsive layouts with reusable components
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+## 📁 Structure
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```
+frontend/
+  src/
+    components/
+    pages/
+    App.tsx
+    router.tsx
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+server/
+  src/
+    routes/
+    data/
+    index.ts
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🧪 API Routes
+
+```
+GET  /api/videos
+GET  /api/checklist
+POST /api/checklist
+GET  /api/notifications
+POST /api/upload-photo
+```
+
+
+## ▶️ Local Development
+
+**Backend**
+
+```
+cd server
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+**Frontend**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+cd frontend
+npm install
+npm run dev
+```
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🌍 Deployment
 
-## What technologies are used for this project?
+* Frontend → Vercel / Netlify
+* Backend → Render / Railway
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/50d253b7-af05-44cf-8193-26190eeb6579) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+✅ **ultra-minimal 5-line version**
+I can generate those too.
