@@ -66,8 +66,11 @@ const Index = () => {
               <Button variant="ghost" asChild>
                 <Link to="/family-dashboard">Family Portal</Link>
               </Button>
+              <Button variant="outline" asChild>
+                <Link to="/login">Sign In</Link>
+              </Button>
               <Button asChild>
-                <Link to="/patient-dashboard">Sign In</Link>
+                <Link to="/signup">Sign Up</Link>
               </Button>
             </div>
           </div>
@@ -95,7 +98,7 @@ const Index = () => {
               </p>
               <div className="flex flex-wrap gap-3">
                 <Button size="lg" asChild>
-                  <Link to="/patient-dashboard">
+                  <Link to="/signup">
                     Get Started Free
                   </Link>
                 </Button>
@@ -170,12 +173,12 @@ const Index = () => {
                 </p>
                 <div className="flex flex-wrap gap-4 justify-center pt-4">
                   <Button size="lg" variant="secondary" asChild>
-                    <Link to="/patient-dashboard">
+                    <Link to="/signup">
                       Start as Patient
                     </Link>
                   </Button>
                   <Button size="lg" variant="outline" className="bg-white/10 border-white/20 text-white hover:bg-white/20" asChild>
-                    <Link to="/family-dashboard">
+                    <Link to="/signup">
                       Start as Caregiver
                     </Link>
                   </Button>
