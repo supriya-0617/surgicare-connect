@@ -1,5 +1,5 @@
 
-# 🌟 SurgiPrep — Pastel Surgery Preparation Assistant
+# 🌟 SurgiConnect — Pastel Surgery Preparation Assistant
 
 SurgiPrep is a clean, pastel-themed surgery preparation assistant built with **React + Vite + TypeScript** on the frontend and **Node.js + Express + TypeScript** on the backend.
 It is a beginner-friendly full-stack prototype with simple UI, light interactivity, and a mock API.
@@ -88,5 +88,3 @@ npm run dev
 * Backend → Render / Railway
 
 
-✅ **ultra-minimal 5-line version**
-I can generate those too.
