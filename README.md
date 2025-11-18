@@ -1,8 +1,26 @@
 
-# 🌟 SurgiConnect — Pastel Surgery Preparation Assistant
+## SurgiConnect: Pre/Post-Surgery Patient Support Platform
+## About the Project
+SurgiConnect is an AI-enhanced digital platform designed to empower surgical patients and their families through every step of the recovery journey. It transforms traditional, passive discharge processes into an active, interactive, and personalized care ecosystem that reduces complications, improves outcomes, and eases caregiver burdens.
 
-SurgiPrep is a clean, pastel-themed surgery preparation assistant built with **React + Vite + TypeScript** on the frontend and **Node.js + Express + TypeScript** on the backend.
-It is a beginner-friendly full-stack prototype with simple UI, light interactivity, and a mock API.
+## Features
+Personalized patient and family dashboards with surgery profiles and care timelines
+AI-driven wound photo uploads with real-time infection risk alerts and risk prediction
+Interactive milestone-based checklists, medication and pain tracking
+Adaptive, scenario-based AI video guides and an AI-moderated community video library with comments and upvotes
+Secure chat and telehealth for direct communication with medical staff
+Emotional support videos and Q&A forums
+Pre-surgery emotional preparation modules
+Searchable directory of local hospitals, specialists, and direct call buttons
+Real-time notifications and reminders
+Modular patient, family, and staff management with privacy controls
+
+## Tech Stack
+Frontend: React, Vite, TypeScript, Tailwind CSS, Framer Motion
+Backend: Node.js, Express, TypeScript, mock API endpoints (in-memory JSON)
+Version control with Git and GitHub for efficient development and collaboration
+
+
 
 ## 🚀 Tech Stack
 
