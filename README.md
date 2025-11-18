@@ -22,14 +22,13 @@ Version control with Git and GitHub for efficient development and collaboration
 
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 
 * React + Vite + TypeScript
 * Tailwind CSS (custom pastel theme)
 * React Router
-* Framer Motion
 * Mobile-first responsive UI
 
 ### **Backend**
@@ -39,26 +38,48 @@ Version control with Git and GitHub for efficient development and collaboration
 * Simple mock API endpoints
 * CORS enabled
 
-## 🎨 Features
+## Features
 
- • Patient Dashboard: Personalized recovery timeline, wound and medication logging,
-photo uploads with real-time alerts, downloadable doctor reports, and automated
-reminders for care tasks.
-• Family Dashboard: Assignable care tasks, tailored video guides for wound
-management and rehab, upload portals for questions and images, secure chat and
-telehealth options, and emotional support resources.
-• AI Video Library: Search/filter by procedure and user group, adaptive video guides,
-moderated community advice, and sentiment highlights for top peer support.
-• Pre-Surgery Preparation: Guides, anonymous Q&A answered by professionals and
-peers, and anxiety management resources.
-• Directory & Calls: Search for nearby hospitals and specialists by procedure,
-emergency contacts, click-to-call, and profile details.
-• Notification Center: Real-time alerts for missed care, abnormal wound entries, and
-medication reminders.
-• Settings/Profile: Role management and privacy controls for patients, caregivers, and
-staff.
-• Downloadable progress and care reports for medical staff
-• AI Based Wound Detection: Mechanism to identify stages of wound and specific recovery plan.
+Here’s a well-structured **README Features Section** for your GitHub project *SurgiConnect*, written in a professional tone suitable for public repositories. It summarizes the system’s major modules while keeping it clean and easy to scan.
+
+***
+
+## 🚀 Features — SurgiConnect: Pre/Post-Surgery Patient Support Platform
+
+SurgiConnect is a digital healthcare platform designed to support patients and families through every stage of surgical recovery. It bridges the communication gap between hospitals and homes while empowering users with personalized, data-driven care tools.
+
+### 🩺 Core Modules
+
+#### **1. Patient Dashboard**
+- Personalized recovery timelines and care goals.  
+- Wound and medication tracking with daily entry logs.  
+- Upload wound images with
+- AI-assisted detection for monitoring healing progress.  
+- Automated alerts for missed care tasks or abnormal entries.  
+- Downloadable medical and progress reports for hospital review.  
+
+#### **2. Family Dashboard**
+- Assign and manage shared care responsibilities among family members.  
+- Access tailored video guides for wound care and rehabilitation.  
+- Upload images or questions for medical review.  
+- Secure chat and telehealth integration for remote check-ins.  
+- Emotional health and support resource center.  
+
+#### **3. AI Video Library**
+- Smart search and filter by surgical procedure and user type (patient, family, or clinician).  
+- Adaptive video recommendations based on recovery progress.  
+- Community-driven Q&A and discussion threads.  
+- Sentiment tagging for highlighting top-rated peer support responses.  
+
+#### **4. Pre-Surgery Preparation**
+- Educational guides and checklists for upcoming procedures.  
+- Anonymous Q&A sessions with verified professionals and past patients.  
+- Tools and techniques for anxiety management before surgery.  
+
+#### **5. Directory & Calls**
+- Search nearby hospitals
+
+
 
 
 
