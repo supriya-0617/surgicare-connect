@@ -41,15 +41,25 @@ Version control with Git and GitHub for efficient development and collaboration
 
 ## 🎨 Features
 
-* Pastel, medical-themed UI
-* Patient Dashboard & Family Dashboard
-* Video Library (fetching from backend)
-* Pre-op Checklist with toggle
-* Pain Slider
-* Photo Upload (client preview)
-* Notifications UI (mark as read)
-* Progress Ring component
-* Responsive layouts with reusable components
+ • Patient Dashboard: Personalized recovery timeline, wound and medication logging,
+photo uploads with real-time alerts, downloadable doctor reports, and automated
+reminders for care tasks.
+• Family Dashboard: Assignable care tasks, tailored video guides for wound
+management and rehab, upload portals for questions and images, secure chat and
+telehealth options, and emotional support resources.
+• AI Video Library: Search/filter by procedure and user group, adaptive video guides,
+moderated community advice, and sentiment highlights for top peer support.
+• Pre-Surgery Preparation: Guides, anonymous Q&A answered by professionals and
+peers, and anxiety management resources.
+• Directory & Calls: Search for nearby hospitals and specialists by procedure,
+emergency contacts, click-to-call, and profile details.
+• Notification Center: Real-time alerts for missed care, abnormal wound entries, and
+medication reminders.
+• Settings/Profile: Role management and privacy controls for patients, caregivers, and
+staff.
+• Downloadable progress and care reports for medical staff
+• AI Based Wound Detection: Mechanism to identify stages of wound and specific recovery plan.
+
 
 
 ## 📁 Structure
