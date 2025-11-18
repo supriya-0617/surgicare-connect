@@ -38,11 +38,6 @@ Version control with Git and GitHub for efficient development and collaboration
 * Simple mock API endpoints
 * CORS enabled
 
-## Features
-
-Here’s a well-structured **README Features Section** for your GitHub project *SurgiConnect*, written in a professional tone suitable for public repositories. It summarizes the system’s major modules while keeping it clean and easy to scan.
-
-***
 
 ## 🚀 Features — SurgiConnect: Pre/Post-Surgery Patient Support Platform
 
