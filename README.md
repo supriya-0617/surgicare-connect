@@ -86,9 +86,9 @@ POST /api/upload-photo
 **Backend**
 
 ```
-cd server
 npm install
 npm run dev
+cd server
 ```
 
 **Frontend**
